@@ -9,7 +9,7 @@ There are innumerable drugs available for a variety of illnesses, and customers 
 The Recom-d system is a pharmaceutical recommendation platform driven by artificial intelligence.
 The individual will be able to find a medicine recommendation for their chosen health condition straightaway.
 Recom-d can be utilized by users suffering from conditions such as Birth Control, Depression, Pain, Anxiety, Acne, Bipolar Disorder, Insomnia, Weight Loss, Obesity, ADHD, Diabetes, Type 2, Emergency Contraception, High Blood Pressure, and Migrane to obtain medicine suggestions depending on their situation.
-The Recom-d system can assist the patient in selecting better drugs for their ailments while also acting as a benchmark for drug providers such as doctors and the pharmaceutical corporations.
+The Recom-d system can assist the patient in selecting better drugs for their ailments while also acting as a benchmark for drug providers such as doctors and the pharmaceutical corporations. Based on reviews, the given project is built on NLP and Sentiment Analysis to recommend medications and is deployed on the Vercel app.
 
 
 # Dataset 📊
