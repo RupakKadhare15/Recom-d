@@ -1,5 +1,5 @@
 # *Recom-d* 💊 
-This project is based on NLP and Sentiment Analysis to recommend medications based on reviews.
+This project is based on NLP and Sentiment Analysis to recommend medications based on Customer reviews and ratings for the Drugs.
 
 ## *An AI-powered system for drugs recommendation*
 
