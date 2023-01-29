@@ -1,5 +1,4 @@
-# *Recom-d* 
-![image](https://user-images.githubusercontent.com/107197825/215314273-bfda5c89-8c84-419a-9f5e-e7b660607640.png)
+# *Recom-d* ⚕️
 
 This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs.
 
