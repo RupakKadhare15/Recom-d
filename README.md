@@ -1,7 +1,7 @@
 # *Recom-d* ⚕️
 
 ## *An AI-powered system for drugs recommendation*
-This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs.
+This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs where deployment is done with Vercel.
 
 # *Overview* 📑
 There are innumerable drugs available for a variety of illnesses, and customers may have difficulties picking prescriptions for their illnesses. Our project's aim is to develop a recommendation system that will assist patients by recommending pharmaceuticals based on patient outcomes from medication reviews.
