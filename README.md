@@ -1,4 +1,5 @@
-# *Recom-d* ⚕️
+# *Recom-d* ![image](https://user-images.githubusercontent.com/107197825/215315201-fa053678-90b6-4836-be18-78f31b6f9fff.png)
+
 
 ## *An AI-powered system for drugs recommendation*
 This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs where deployment is done with Vercel.
