@@ -4,7 +4,7 @@ export default function Footet() {
   return (
     <footer className="bg-dark text-light py-3" style={{"width":"100%","marginTop":"150px"}}>
      <p className="text-center">
-      Made by team of Recom-d&copy;Recom-d.com 
+      Made by team of Recom-d &copy;Recom-d.com 
 
      </p>
     </footer>
