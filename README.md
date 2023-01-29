@@ -1,4 +1,4 @@
-# Recom-d
+# *Recom-d* 💊 
 This project was made for Major League Hacking's HOYA Hacks 2023 Hackathon on DevPost, and it is primarily based on NLP and Sentiment Analysis.
 
 ## *An AI-powered system for drugs recommendation*
