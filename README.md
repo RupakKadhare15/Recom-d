@@ -1,16 +1,14 @@
 # *Recom-d* ⚕️
 
-This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs.
-
 ## *An AI-powered system for drugs recommendation*
-
+This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs.
 
 # *Overview* 📑
 There are innumerable drugs available for a variety of illnesses, and customers may have difficulties picking prescriptions for their illnesses. Our project's aim is to develop a recommendation system that will assist patients by recommending pharmaceuticals based on patient outcomes from medication reviews.
 The Recom-d system is a pharmaceutical recommendation platform driven by artificial intelligence.
 The individual will be able to find a medicine recommendation for their chosen health condition straightaway.
 Recom-d can be utilized by users suffering from conditions such as Birth Control, Depression, Pain, Anxiety, Acne, Bipolar Disorder, Insomnia, Weight Loss, Obesity, ADHD, Diabetes, Type 2, Emergency Contraception, High Blood Pressure, and Migrane to obtain medicine suggestions depending on their situation.
-The Recom-d system can assist the patient in selecting better drugs for their ailments while also acting as a benchmark for drug providers such as doctors and the pharmaceutical corporations. Based on reviews, the given project is built on NLP and Sentiment Analysis to recommend medications and is deployed with the help of Vercel.
+The Recom-d system can assist the patient in selecting better drugs for their ailments while also acting as a benchmark for drug providers such as doctors and the pharmaceutical corporations. Based on reviews, the given project is built on NLP and Sentiment Analysis to recommend medications. The frontend is created with React and for backend Flask is been used. As mentioned earlier the deployment is with the help of Vercel.
 
 
 # Dataset 📊
