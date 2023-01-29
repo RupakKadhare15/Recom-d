@@ -1,9 +1,11 @@
-# *Recom-d*⚕️
+# *Recom-d* ![image](https://user-images.githubusercontent.com/107197825/215314273-bfda5c89-8c84-419a-9f5e-e7b660607640.png)
 
-## *An AI-powered system for Drugs Recommendation*
-This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs and is deployed with the help of Vercel.
+This project is based on NLP and Sentiment Analysis to recommend medications based on customer reviews and ratings for the drugs.
 
-# *Overview*
+## *An AI-powered system for drugs recommendation*
+
+
+# *Overview* 📑
 There are innumerable drugs available for a variety of illnesses, and customers may have difficulties picking prescriptions for their illnesses. Our project's aim is to develop a recommendation system that will assist patients by recommending pharmaceuticals based on patient outcomes from medication reviews.
 The Recom-d system is a pharmaceutical recommendation platform driven by artificial intelligence.
 The individual will be able to find a medicine recommendation for their chosen health condition straightaway.
