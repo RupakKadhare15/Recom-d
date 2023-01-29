@@ -12,7 +12,7 @@ Recom-d can be utilized by users suffering from conditions such as Birth Control
 The Recom-d system can assist the patient in selecting better drugs for their ailments while also acting as a benchmark for drug providers such as doctors and the pharmaceutical corporations. Based on reviews, the given project is built on NLP and Sentiment Analysis to recommend medications and is deployed on the Vercel app.
 
 
-# Dataset 📊
+# Dataset 
 The original dataset can be accessed in the UCI Machine Learning Repository.
 https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 
