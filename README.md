@@ -1,4 +1,5 @@
-# *Recom-d* ![image](https://user-images.githubusercontent.com/107197825/215315201-fa053678-90b6-4836-be18-78f31b6f9fff.png)
+# *Recom-d*![image](https://user-images.githubusercontent.com/107197825/215315360-2059f408-0039-4a50-b5e2-0938b2958053.png)
+
 
 
 ## *An AI-powered system for drugs recommendation*
